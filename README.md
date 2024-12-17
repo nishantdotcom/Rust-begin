@@ -1,3 +1,3 @@
 # Hello
 
-# HEllo RUst
+# HEllo
